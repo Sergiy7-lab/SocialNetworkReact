@@ -1,0 +1,24 @@
+.img__content {
+  width: 100%;
+  height: 300px;
+}
+
+.user {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.img__ava {
+  width: 200px;
+  height: 200px;
+}
+
+.user__info {
+  font-size: 16px;
+  color: beige;
+}
+
+.status_text {
+  cursor: pointer;
+}

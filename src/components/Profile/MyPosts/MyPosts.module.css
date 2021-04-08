@@ -1,0 +1,25 @@
+.posts {
+  margin: 10px 20px;
+}
+.my__posts {
+  font-size: 30px;
+  font-weight: bold;
+  color: beige;
+  padding-bottom: 30px;
+}
+
+.new__posts {
+  font-size: 23px;
+}
+
+.new__posts textarea {
+  width: 50%;
+  height: 50px;
+}
+
+.new__posts button {
+  width: 100px;
+  height: 30px;
+  background-color: blueviolet;
+  margin-bottom: 30px;
+}
